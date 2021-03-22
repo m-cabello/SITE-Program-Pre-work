@@ -4,9 +4,9 @@ Musical Squares is a Light & Sound Memory game to apply for CodePath's SITE Prog
 
 Submitted by: Martin Cabello
 
-Time spent: 2 hours spent in total
+Time spent: 2.5 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/real-dull-detective?path=README.md%3A42%3A91
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://cdn.glitch.com/e2542eaf-0cd4-43bd-b799-3f24de7756cf%2Fvideo.gif?v=1616440094032)
 
 
 ## Reflection Questions
